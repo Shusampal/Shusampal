@@ -16,7 +16,7 @@ I believe the best way to learn is to build, experiment, and understand how thin
 
 **Languages:** Python, TypeScript, JavaScript, SQL
 
-**Backend:** Node.js, NestJS, FastAPI, REST APIs, Microservices, WebSockets
+**Backend:** FastAPI, Express.js , REST APIs, Microservices, WebSockets
 
 **Systems:** Redis, Async Processing, Event-Driven Architecture, Distributed Systems
 
